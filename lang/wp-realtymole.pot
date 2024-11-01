@@ -1,0 +1,160 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Realty Mole\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-20 14:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: php/wp-realtymole-shortcodes.php:18
+msgid "Address"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:87
+msgid "Address:"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:46
+msgid "Bathrooms"
+msgstr ""
+
+#: wp-realtymole.php:53
+msgid "bathrooms"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:39
+msgid "Bedrooms"
+msgstr ""
+
+#: wp-realtymole.php:52
+msgid "bedrooms"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:25
+msgid "City"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:90
+msgid "Comparable Rentals"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:88
+msgid "Estimated Rent:"
+msgstr ""
+
+#: wp-realtymole.php:127
+msgid "Google Maps - API Key (mandatory)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://verya.ca"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:74
+msgid "Loading..."
+msgstr ""
+
+#: wp-realtymole.php:54
+msgid "miles"
+msgstr ""
+
+#: php/wp-realtymole-widgets.php:44
+msgid "New title"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:41 php/wp-realtymole-shortcodes.php:48
+#: php/wp-realtymole-shortcodes.php:69
+msgid "Number only"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:41 php/wp-realtymole-shortcodes.php:48
+#: php/wp-realtymole-shortcodes.php:62 php/wp-realtymole-shortcodes.php:69
+msgid "Optional"
+msgstr ""
+
+#: wp-realtymole.php:115
+msgid "Please provide the required information below:"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:98
+#, php-format
+msgid "Powered by <a href=\"%s\" target=\"_blank\">RealtyMole.com</a>."
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:53
+msgid "Property Type"
+msgstr ""
+
+#: wp-realtymole.php:50
+msgid "Property Type: "
+msgstr ""
+
+#: wp-realtymole.php:120
+msgid "Realty Mole - API Key (optional)"
+msgstr ""
+
+#: wp-realtymole.php:49
+msgid "Rent: "
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:20 php/wp-realtymole-shortcodes.php:27
+#: php/wp-realtymole-shortcodes.php:34
+msgid "Required"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:73
+msgid "Search"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:94
+msgid "Search again"
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:67
+msgid "Square Footage"
+msgstr ""
+
+#: wp-realtymole.php:51
+msgid "Square Footage: "
+msgstr ""
+
+#: php/wp-realtymole-shortcodes.php:32
+msgid "State"
+msgstr ""
+
+#. Author of the plugin
+msgid "VERYA.ca"
+msgstr ""
+
+#. Name of the plugin
+#: wp-realtymole.php:67
+msgid "WP Realty Mole"
+msgstr ""
+
+#: wp-realtymole.php:109
+msgid "WP Realty Mole - Settings"
+msgstr ""
+
+#. Description of the plugin
+#: php/wp-realtymole-widgets.php:19
+msgid ""
+"WP Realty Mole lets you use the RealtyMole.com API to scan thousands of "
+"rental listings to caculate and estimate rent for the address you enter."
+msgstr ""
+
+#: php/wp-realtymole-widgets.php:19
+msgid "WP Realty Mole Widget"
+msgstr ""
+
+#: wp-realtymole.php:104
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""

@@ -1,0 +1,37 @@
+#wp-realtymole-google-map {
+    height: 400px;
+}
+
+#wp-realtymole-listings ol li {
+    background-position: 0 4px;
+    background-repeat: no-repeat;
+    background-size: 150px;
+    border-bottom: 1px solid #aaa;
+    min-height: 128px;
+    padding-left: 166px;
+}
+
+#wp-realtymole-quota-exceeded, #wp-realtymole-loading, #wp-realtymole-results, #dcg-hidden {
+    display:none;
+}
+
+#wp-realtymole-form-column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    min-width: 250px;
+}
+
+/* Clear floats after the columns */
+#wp-realtymole-form-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.wp-realtymole-free-text {
+    font-style: italic;
+}
+
+/* #wp-realtymole-searched-address, #wp-realtymole-estimated-rent, #wp-realtymole-rent-range { 
+} */
